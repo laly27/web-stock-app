@@ -113,11 +113,7 @@ npm run generate
 - Revenus par période
 - Analyse du stock
 
-## 💾 Stockage des données
 
-L'application utilise le **localStorage** du navigateur pour persister les données :
-- `sunu-resto-products` : Liste des produits
-- `sunu-resto-orders` : Historique des commandes
 
 Les données sont automatiquement sauvegardées à chaque modification et rechargées au démarrage de l'application.
 
