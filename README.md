@@ -35,8 +35,8 @@ Une application web moderne de gestion de stock pour restaurant, développée av
 ### 1. Cloner le projet
 
 ```bash
-git clone <url-du-repo>
-cd sunu-resto
+git clone https://github.com/laly27/web-stock-app
+cd web-stock-app
 ```
 
 ### 2. Installer les dépendances
